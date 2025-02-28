@@ -1,0 +1,15 @@
+<workspace name="Two_Terminal_HVDC" version="5.0.0" crc="1749253">
+  <projects>
+    <project type="library" name="Z_tool" filepath="..\..\..\Source\Z_tool.pslx" />
+    <project type="project" name="VSC_HVDC1" filepath=".\VSC_HVDC1.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>
